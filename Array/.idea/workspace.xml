@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e84b98c-e4ab-41f5-9692-1082284c5f77" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PpA6vFITWSuIxepR0mXiaU9GcA" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.IndexOutOfBounds">
+    <configuration name="IndexOutOfBounds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.array.IndexOutOfBounds" />
+      <module name="Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InisiasiArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.array.InisiasiArray" />
+      <module name="Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.array.LoopingArray" />
+      <module name="Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiDimensionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.array.MultiDimensionArray" />
+      <module name="Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IndexOutOfBounds" />
+        <item itemvalue="Application.MultiDimensionArray" />
+        <item itemvalue="Application.LoopingArray" />
+        <item itemvalue="Application.InisiasiArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e84b98c-e4ab-41f5-9692-1082284c5f77" name="Default Changelist" comment="" />
+      <created>1566560492968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566560492968</updated>
+    </task>
+    <servers />
+  </component>
+</project>

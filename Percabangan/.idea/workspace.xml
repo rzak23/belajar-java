@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f216c608-423a-4ee8-88e0-287eb2ba614a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PoXT7K98jBd2D4V8cZim7YoIrP" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SwitchWithoutBreak">
+    <configuration name="IfThenElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.percabangan.IfThenElse" />
+      <module name="Percabangan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.percabangan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfThenElseifThenElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.percabangan.IfThenElseifThenElse" />
+      <module name="Percabangan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.percabangan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.percabangan.Switch" />
+      <module name="Percabangan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.percabangan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchWithoutBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.percabangan.SwitchWithoutBreak" />
+      <module name="Percabangan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.percabangan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ifThen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.percabangan.ifThen" />
+      <module name="Percabangan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.percabangan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SwitchWithoutBreak" />
+        <item itemvalue="Application.Switch" />
+        <item itemvalue="Application.IfThenElseifThenElse" />
+        <item itemvalue="Application.IfThenElse" />
+        <item itemvalue="Application.ifThen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f216c608-423a-4ee8-88e0-287eb2ba614a" name="Default Changelist" comment="" />
+      <created>1566541427779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566541427779</updated>
+    </task>
+    <servers />
+  </component>
+</project>
